@@ -1,0 +1,5 @@
+skenario,experiment,best_k,silhouette,dbi,inertia,coherence,metode_coherence
+umap_euclidean,COMBINED_doc_embedding_W2V_skipgram_Dim200_Window10_euc_c5_n30_d0.0,4,0.9368221163749695,0.09255255376885572,2505.268310546875,0.6044,Silhouette
+umap_cosine,COMBINED_doc_embedding_FT_skipgram_Dim200_Window5_comp15_n30_d0.0,4,0.9228127598762512,0.10833005339114912,2841.229736328125,0.6044,Silhouette
+pca,COMBINED_doc_embedding_FT_skipgram_Dim200_Window10_pca5,4,0.2803641596774289,1.2279451637390921,120913.64142918627,0.5986,DBI
+tanpa_reduksi,COMBINED_doc_embedding_W2V_cbow_Dim200_Window10,4,0.153149139881431,1.872143134661657,471365.9120512373,0.5772,Silhouette
