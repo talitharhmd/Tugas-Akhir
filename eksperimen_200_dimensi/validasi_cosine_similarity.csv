@@ -1,0 +1,5 @@
+cluster,cluster_label,jumlah_dokumen,avg_cosine_similarity
+0,Forecasting Research,635,0.6027
+1,Classification & Feature Selection Research,1204,0.5257
+2,Predictive Analytics Research,574,0.6
+3,Social Media Sentiment Research,913,0.5433
