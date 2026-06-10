@@ -1,4 +1,0 @@
-skenario,experiment,best_k,silhouette,dbi,inertia,coherence,metode_coherence
-umap_cosine,COMBINED_doc_embedding_FT_skipgram_Dim100_Window5_comp15_n30_d0.0,4,0.9185397028923035,0.11424795452825737,2950.076416015625,0.6044,Silhouette
-pca,COMBINED_doc_embedding_FT_skipgram_Dim100_Window10_pca5,4,0.2949378733874209,1.1752471155591806,70231.20388441367,0.607,Elbow
-tanpa_reduksi,COMBINED_doc_embedding_F2V_cbow_Dim100_Window10_Alpha0.4_Beta0.6,2,0.15522878795981263,2.178231293972818,295313.347191172,0.59,Elbow
